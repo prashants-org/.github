@@ -15,7 +15,7 @@ Websites for a family of businesses — Prakhar Technology, Unnati Ladder and St
 | Project | What it is | Live site | Stack |
 |---|---|---|---|
 | [**prakhartech**](https://github.com/prashants-org/prakhartech) | Prakhar Technology, a Pune-based company: GPS vehicle tracking, Elide Fire Ball fire safety, and industrial & office supplies | [prakhartech.com](https://www.prakhartech.com) | React 19, Vite, React Router, Vitest, Playwright |
-| [**unnatiladders**](https://github.com/prashants-org/unnatiladders) | Unnati Ladder, *"Growing Together"*: company profile site | [unnatiladder.com](https://unnatiladder.com) | Static HTML/CSS (archived WordPress site) |
+| [**unnatiladders**](https://github.com/prashants-org/unnatiladders) | Unnati Ladder, *"Growing Together"*: a franchise and business consultancy | [unnatiladder.com](https://unnatiladder.com) | Static HTML/CSS (archived WordPress site) |
 | [**streetwearretail**](https://github.com/prashants-org/streetwearretail) | Streetwear Retail: "coming soon" landing page for a streetwear store | [streetwearretail.com](https://streetwearretail.com) | HTML, CSS, JavaScript |
 
 ### Prakhar Technology at a glance
