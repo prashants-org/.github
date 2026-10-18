@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prashants-org/.github/main/profile/prakhar-technology-logo.png" alt="Prakhar Technology" width="120" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashants-org/.github/main/profile/orbit-p-lockup-dark.png" />
+  <img src="https://raw.githubusercontent.com/prashants-org/.github/main/profile/orbit-p-lockup.png" alt="Prashant's Org" width="420" />
+</picture>
 
-# Prashant's Org
+<br /><br />
 
 Websites for a family of businesses — Prakhar Technology, Unnati Ladder and Streetwear Retail — all hosted on GitHub Pages.
 
