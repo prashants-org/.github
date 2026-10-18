@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prashants-org/.github/main/profile/prakhartech-avatar.png" alt="Prakhar Technology" width="160" />
+<img src="https://raw.githubusercontent.com/prashants-org/.github/main/profile/prakhar-technology-logo.png" alt="Prakhar Technology" width="120" />
 
 # Prashant's Org
 
